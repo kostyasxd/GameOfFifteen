@@ -1,0 +1,9 @@
+C:\Users\kosty\Desktop\GameOfFifteen\GameOfFifteen\bin\Debug\GameOfFifteen.exe.config
+C:\Users\kosty\Desktop\GameOfFifteen\GameOfFifteen\bin\Debug\GameOfFifteen.exe
+C:\Users\kosty\Desktop\GameOfFifteen\GameOfFifteen\bin\Debug\GameOfFifteen.pdb
+C:\Users\kosty\Desktop\GameOfFifteen\GameOfFifteen\obj\Debug\GameOfFifteen.MainForm.resources
+C:\Users\kosty\Desktop\GameOfFifteen\GameOfFifteen\obj\Debug\GameOfFifteen.Properties.Resources.resources
+C:\Users\kosty\Desktop\GameOfFifteen\GameOfFifteen\obj\Debug\GameOfFifteen.csproj.GenerateResource.Cache
+C:\Users\kosty\Desktop\GameOfFifteen\GameOfFifteen\obj\Debug\GameOfFifteen.exe
+C:\Users\kosty\Desktop\GameOfFifteen\GameOfFifteen\obj\Debug\GameOfFifteen.pdb
+C:\Users\kosty\Desktop\GameOfFifteen\GameOfFifteen\obj\Debug\GameOfFifteen.csprojResolveAssemblyReference.cache
